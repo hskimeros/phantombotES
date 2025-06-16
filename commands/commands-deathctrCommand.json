@@ -1,11 +1,11 @@
 {
-    "deathcounter.set-error": "Provide a new valid death counter value.",
-    "deathcounter.set-success": "Death counter for $1 set to $2.",
-    "deathcounter.add-success": "$1 has died again in $2, bringing the total to $3.",
-    "deathcounter.sub-success": "Calling back a death, the total is now $2 in $1.",
-    "deathcounter.sub-zero": "The death counter for $1 is already zero, can't go any lower!",
-    "deathcounter.counter": "$1 has died $3 times in $2.",
-    "deathcounter.none": "$1 has not died in $2....yet.",
-    "deathcounter.reset": "Reset the death counter back to 0 from $2 for $1.",
-    "deathcounter.reset-nil": "The death counter for $1 is already 0."
+    "deathcounter.set-error": "Proporciona un valor válido para el contador de muertes.",
+    "deathcounter.set-success": "El contador de muertes para $1 se ha establecido en $2.",
+    "deathcounter.add-success": "$1 ha muerto nuevamente en $2, llevando el total a $3.",
+    "deathcounter.sub-success": "Se ha anulado una muerte, ahora el total es $2 en $1.",
+    "deathcounter.sub-zero": "El contador de muertes para $1 ya está en cero, no puede bajar más.",
+    "deathcounter.counter": "$1 ha muerto $3 veces en $2.",
+    "deathcounter.none": "$1 no ha muerto en $2... aún.",
+    "deathcounter.reset": "El contador de muertes para $1 ha sido reiniciado desde $2.",
+    "deathcounter.reset-nil": "El contador de muertes para $1 ya está en 0."
 }
