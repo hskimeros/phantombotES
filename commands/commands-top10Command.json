@@ -1,10 +1,10 @@
 {
     "top5.default": "Top $1 $2: $3",
-    "top5.points-disabled": "Points are disabled.",
-    "top5.amount.points.usage": "Usage: !topamount (amount) - Set how many viewers will appear in the !top points list.",
-    "top5.amount.max": "The max amount of users is 15.",
-    "top5.amount.points.set": "$1 users will now show in the !top command.",
-    "top5.amount.time.usage": "Usage: !toptimeamount (amount) - Set how many viewers will appear in the !toptime list.",
-    "top5.amount.time.set": "$1 viewers will now show in the !toptime command.",
-    "top5.reloadtopbots": "Deprecated. Please run !reloadbots"
+    "top5.points-disabled": "Los puntos están desactivados.",
+    "top5.amount.points.usage": "Uso: !topamount (cantidad) - Establece cuántos usuarios aparecerán en la lista !top de puntos.",
+    "top5.amount.max": "La cantidad máxima de usuarios es 15.",
+    "top5.amount.points.set": "Ahora se mostrarán $1 usuarios en el comando !top.",
+    "top5.amount.time.usage": "Uso: !toptimeamount (cantidad) - Establece cuántos usuarios aparecerán en la lista !toptime.",
+    "top5.amount.time.set": "Ahora se mostrarán $1 usuarios en el comando !toptime.",
+    "top5.reloadtopbots": "Obsoleto. Por favor usa !reloadbots"
 }
