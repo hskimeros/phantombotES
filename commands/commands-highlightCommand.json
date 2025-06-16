@@ -1,8 +1,8 @@
 {
-    "highlightcommand.highlight.offline": "Highlights can only be set when the stream is online.",
-    "highlightcommand.highlight.usage": "Usage: !highlight [description] (Using date stamp for timezone: $1)",
-    "highlightcommand.highlight.success": "Highlight successfully saved with a timestamp of $1.",
-    "highlightcommand.gethighlights.no-highlights": "There are currently no highlights.",
-    "highlightcommand.clearhighlights.success": "Highlights have been cleared.",
+    "highlightcommand.highlight.offline": "Los highlights solo se pueden establecer cuando el stream está en línea.",
+    "highlightcommand.highlight.usage": "Uso: !highlight [descripción] (Usando zona horaria del sistema: $1)",
+    "highlightcommand.highlight.success": "Highlight guardado correctamente con marca de tiempo $1.",
+    "highlightcommand.gethighlights.no-highlights": "Actualmente no hay ningún highlight.",
+    "highlightcommand.clearhighlights.success": "Highlights eliminados correctamente.",
     "highlightcommand.highlights": "Highlights: $1"
 }
